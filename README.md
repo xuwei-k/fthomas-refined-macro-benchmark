@@ -46,3 +46,18 @@
 53d45
 <       .getOrElse(eval(v))
 ```
+
+## original macro
+
+![original-1](images/original-1.png)
+
+![original-2](images/original-2.png)
+
+![original-3](images/original-3.png)
+
+## custom macro
+
+![custom-1](images/custom-1.png)
+
+![custom-2](images/custom-2.png)
+
